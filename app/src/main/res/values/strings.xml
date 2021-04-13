@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="search_location">Search location</string>
+    <string name="enter_the_desired_location">Enter the desired location</string>
+    <string name="information">Information</string>
+    <string name="house_number">house number</string>
+    <string name="road">road</string>
+    <string name="hamlet">hamlet</string>
+    <string name="town">town</string>
+    <string name="village">village</string>
+    <string name="city">city</string>
+    <string name="county">county</string>
+    <string name="state_district">state district</string>
+    <string name="state">state</string>
+    <string name="postcode">postcode</string>
+    <string name="country">country</string>
+    <string name="country_code">country code</string>
+    <string name="close">close</string>
+</resources>
